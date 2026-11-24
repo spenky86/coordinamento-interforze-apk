@@ -1,0 +1,9 @@
+{
+  "appId": "it.spenk86.coordinamentointerforze",
+  "appName": "Coordinamento Interforze",
+  "webDir": "www",
+  "server": {
+    "url": "https://spenk86.github.io/coordinamento-interforze/",
+    "cleartext": false
+  }
+}
