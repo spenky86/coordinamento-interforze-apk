@@ -1,0 +1,13 @@
+{
+  "name": "coordinamento-interforze-apk",
+  "version": "1.0.0",
+  "description": "Wrapper Android per Coordinamento Interforze",
+  "scripts": {
+    "build": "echo ok"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}
